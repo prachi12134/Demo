@@ -1,0 +1,309 @@
+.main_div1 {
+    height: 400px;
+    width: 100%;
+}
+
+.relati_div {
+    position: relative;
+    color: white;
+}
+
+.first_img {
+    position: absolute;
+    height: 400px;
+    width: 100%;
+}
+
+.firsticon_div {
+    position: absolute;
+    height: 400px;
+    width: 100%;
+    background-color: black;
+    opacity: 0.7;
+}
+
+.firsticon_div2 {
+    border-bottom: 1px solid white;
+}
+
+.main_icondiv {
+    margin-left: 0px;
+    width: 100%;
+    display: flex;
+    height: 30px;
+    margin-top: 10px;
+    column-gap: 650px;
+}
+
+.fixicon_div {
+    display: flex;
+    padding-bottom: 10px;
+}
+
+.icon_img {
+    height: 30px;
+    width: 30px;
+    color: white;
+}
+
+.img_icon2 {
+    height: 30px;
+    width: 30px;
+    color: white;
+    border-radius: 20px;
+    margin-left: 5px;
+}
+
+.img_icon4 {
+    height: 30px;
+    width: 30px;
+    color: white;
+    margin-left: -0px;
+}
+
+.par_number {
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-bottom: 10px;
+    border-left: 1px solid white;
+    padding-left: 5px;
+}
+
+.par_mail {
+    margin-left: 10px;
+    border-left: 1px solid white;
+    padding-left: 10px;
+}
+
+.par_engusd {
+    border-left: 1px solid white;
+    border-right: 1px solid white;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.head_logo {
+    margin-left: 40px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 50px;
+}
+
+.mainlogo_img {
+    height: 40px;
+    width: 40px;
+    margin-top: 10px;
+    border-radius: 30px;
+}
+
+.containr_div {
+    display: flex;
+    column-gap: 30px;
+    margin-top: 30px;
+    margin-left: 150px;
+}
+
+.button_partner {
+    height: 40px;
+    width: 150px;
+    background-color: purple;
+    border-radius: 10px;
+    margin-left: 150px;
+    margin-top: 30px;
+    color: white;
+}
+
+.main_div2 {
+    height: 1000px;
+    width: 100%;
+}
+
+.div_container2 {
+    display: flex;
+    color: black;
+    column-gap: 50px;
+    margin-top: 30px;
+}
+
+.par_abouttravel {
+    font-size: 20px;
+    text-align: justify;
+}
+
+.button_findtour {
+    height: 50px;
+    width: 100px;
+    background-color: purple;
+    color: white;
+    margin-top: 30px;
+}
+
+.img_of2div {
+    height: 400px;
+    width: 600px;
+    margin-left: 0px;
+    margin-right: 50px;
+    border-radius: 10px;
+}
+
+.main_div3 {
+    margin-left: 10px;
+    display: flex;
+    column-gap: 20px;
+    margin-top: 40px;
+}
+
+.Main_img3 {
+    height: 300px;
+    width: 1030px;
+    border-radius: 10px;
+    position: absolute;
+}
+
+.div_parcontainer {
+    position: absolute;
+    height: 300px;
+    width: 380px;
+    text-align: center;
+    margin-top: 120px;
+    margin-left: 350px;
+    color: white;
+    font-size: 20px;
+}
+
+.main_div4_container {
+    height: 200px;
+    width: 300px;
+    background-color: white;
+    margin-top: 40px;
+    margin-left: 50px;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.div4_logoimg {
+    height: 30px;
+    width: 30px;
+    color: white;
+    margin-left: 8px;
+    margin-top: 8px;
+    border-radius: 20px;
+}
+
+.div4_headi {
+    color: purple;
+    padding: 10px;
+    margin-top: -5px;
+}
+
+.div4_para {
+    text-align: justify;
+    color: black;
+    padding: 10px;
+    margin-top: -3px;
+}
+
+.main_div5 {
+    height: 400px;
+    width: 100%;
+    margin-top: 50px;
+}
+
+.postion_imgdiv {
+    position: relative;
+}
+
+.img1positi_div {
+    background-color: white;
+    height: 150px;
+    width: 300px;
+    margin-left: 50px;
+    margin-top: 320px;
+    padding: 20px;
+    border-radius: 10px 0px 0px 10px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.posit_img {
+    height: 80px;
+    width: 80px;
+    color: white;
+    margin-left: 110px;
+    margin-top: 30px;
+}
+
+.img23positi_div {
+    background-color: white;
+    height: 150px;
+    width: 300px;
+    margin-top: 320px;
+    padding: 20px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+}
+
+.img4positi_div {
+    background-color: white;
+    height: 150px;
+    width: 300px;
+    margin-top: 320px;
+    padding: 20px;
+    border-radius: 0px 10px 10px 0px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+}
+
+.head_custm {
+    text-align: center;
+    color: black;
+    padding-top: 200px;
+}
+
+.div_textsdiv {
+    height: 220px;
+    width: 455px;
+    border-radius: 10px;
+    background-color: white;
+    margin-left: 30px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.txtsdiv_img {
+    height: 50px;
+    width: 50px;
+    margin-left: 220px;
+    margin-top: -25px;
+    border-radius: 30px;
+}
+
+.text_para {
+    text-align: center;
+}
+
+.text_para2 {
+    margin-top: -50px;
+    margin-left: 10px;
+}
+
+.text_para3 {
+    margin-left: 350px;
+    margin-top: -20px;
+}
+
+.text_para4 {
+    padding: 20px;
+    text-align: justify;
+    padding-top: 80px;
+}
+
+.mail_div {
+    height: 180px;
+    width: 100%;
+    background-color: rgb(238, 234, 255);
+    margin-top: 100px;
+}
+
+.mail_div2 {
+    display: flex;
+    column-gap: 20px;
+    margin-left: 50px;
+    margin-top: 100px;
+    padding-top: 35px;
+}
